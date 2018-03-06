@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/splash"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorWhite"
+    tools:context="styles.map.custom.com.br.custommapstyles.ui.Splash">
+
+    <ImageView
+        android:id="@+id/icon_maps"
+        android:layout_centerHorizontal="true"
+        android:layout_centerInParent="true"
+        android:src="@drawable/icon_main"
+        android:layout_width="180dp"
+        android:layout_height="180dp" />
+
+    <!-- Text Splash activity -->
+    <TextView
+        android:layout_below="@+id/icon_maps"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/text_splash"
+        android:textColor="@color/colorPrimaryDarkSplash"
+        android:text="@string/text_splash"
+        android:gravity="center"
+        android:textSize="20.5sp"
+        android:textStyle="bold"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="35dp"
+        android:layout_marginRight="35dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>

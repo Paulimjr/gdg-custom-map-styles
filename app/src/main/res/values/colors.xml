@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#FEFEFE</color>
+    <color name="colorBackgroundSplash">#00a14f</color>
+    <color name="colorPrimaryDarkSplash">#00a14f</color>
+    <color name="colorPrimarySplash">#00a14f</color>
+
+    <!-- Colors map -->
+    <color name="colorNight">#222540</color>
+    <color name="colorAfternoon">#E58E4E</color>
+    <color name="colorMorning">#E7C26D</color>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Custom Map Styles</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="text_splash"> Custom Map Styles </string>
+    <string name="text_marker">GDG Uberlândia - Custom Map Styles</string>
+
+    <string name="content_description_fabs_layout">Layout of style selection buttons</string>
+    <string name="content_description_fab">Style button</string>
+
+
+</resources>
